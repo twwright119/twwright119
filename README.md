@@ -34,5 +34,16 @@
   ![twwright119's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=twwright119&theme=prussian&show_icons=true&hide_border=true&layout=compact)
   
 </div>
-<!-- <a href=”https://www.linkedin.com/in/thomas-wright-twc/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a> -->
+<div align="center">
+  
+<h3>Connect With Me</h3>
+  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thomas-wright-twc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TheWrightCoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCdj5tIxPSFhvsEIegNPwD-w)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://twcportfolio.com/)  
+
+</div>
+
+
+
+
+
 
