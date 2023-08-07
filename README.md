@@ -34,4 +34,5 @@
   ![twwright119's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=twwright119&theme=prussian&show_icons=true&hide_border=true&layout=compact)
   
 </div>
+<!-- <a href=”https://www.linkedin.com/in/thomas-wright-twc/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a> -->
 
