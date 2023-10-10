@@ -1,4 +1,4 @@
-![githubBanner](https://github.com/twwright119/twwright119/assets/115041793/2663534a-f227-4b65-9c65-2c998072d6fb)
+![githubBanner](images/githubBanner.png)
 <div>
 <h1 align="center">Thomas Wright</h1>
 <h3 align="center">The Wright Coder</h3>
